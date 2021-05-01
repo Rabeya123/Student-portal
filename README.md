@@ -1,2 +1,2 @@
-# c-programming-master
-c-programming-master mini project
+# c-programming
+Small c programming language projects
