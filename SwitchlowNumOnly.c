@@ -1,11 +1,3 @@
-/*programmer chase
-date 11/5/16
-specifications-switch problem. 1.	Display the smallest number entered
-2.	Display the largest number entered
-3.	Display the sum of the five numbers entered
-4.	Display the average of the five numbers entered
-*/
-
 #include<stdio.h>>
 #include<stdlib.h>>
 //main funtioin
