@@ -1,8 +1,3 @@
-/*Programmer: Chase Singhofen
-Date:
-Specification: Array’s Introduction
-*/
-
 //preprocessors
 #include <stdio.h>
 #include <stdlib.h>
