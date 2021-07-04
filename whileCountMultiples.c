@@ -1,7 +1,3 @@
-/*Programmer Chase Singhofen
-Date: 10/11/2016
-Specifications: use while & count in program for repetition*/
-
 #include<stdio.h>
 #include<stdlib.h>
 
