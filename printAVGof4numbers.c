@@ -1,7 +1,3 @@
-/*Programmer Chase Singhofen
-date 10/25/2016
-Specifications:Enter 4 numbers and print average of those numbers*/
-
 #include<stdio.h>
 #include<stdlib.h>
 main() {
