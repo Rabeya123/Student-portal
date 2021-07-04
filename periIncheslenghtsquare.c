@@ -1,7 +1,3 @@
-/*Programmer Chase Singhofen
-Date: 9/13/2016
-Specifications: Finding Length Square and Perimeter*/
-
 //*Pre Processor directives
 #include <stdio.h>
 #include <stdlib.h>
