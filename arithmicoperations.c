@@ -1,9 +1,3 @@
-/*Programmer Chase Singhofen
-9/8/2016
-Specification-Addition*/
-//Preprocessor directives
-
-
 #include<stdio.h> 
 #include<stdlib.h>
 
