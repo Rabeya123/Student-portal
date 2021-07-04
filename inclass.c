@@ -1,8 +1,3 @@
-/*programmer Chase Singhofen
-date 10/18/16
-specifications 
-*/
-
 #include<stdio.h>
 #include<stdlib.h>
 main()
