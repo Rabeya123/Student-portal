@@ -1,9 +1,3 @@
-/*Programmer Chase Singhofen
-date:09/27/2016
-Comparitive Operators*/
-
-//Programmer Directives: Comparitive Operators
-
 #include<stdio.h>
 #include<stdlib.h>
 //main function
