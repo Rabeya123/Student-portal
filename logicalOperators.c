@@ -1,9 +1,3 @@
-/*Programmer Chase Singhofen
-Date 10/8/2016
-Specifications: Logical Operators*/
-
-//Creating small program to see if they will be true or false statements. 
-
 #include<stdio.h>
 #include<stdlib.h>
 
