@@ -1,7 +1,3 @@
-/*Programmer Chase Singhofe
-Date 10/8/16
-Specifications: While-loops*/
-
 #include<stdio.h>
 #include<stdlib.h>
 
