@@ -1,8 +1,3 @@
-/*Programmer Chase Singhofen
-Date: 9/28/2016
-Specifications: Convert Temps
-*/
-
 #include<stdio.h>
 #include<stdlib.h>
 
