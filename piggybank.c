@@ -1,8 +1,3 @@
-/*Programmer Chase Singhofen
-Date:9/29/2016
-Specifications: How much in the piggy bank*/
-
-
 #include<stdio.h> 
 #include<stdlib.h>
 
