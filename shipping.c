@@ -1,13 +1,3 @@
-/*Programmer Chase Singhofen
-Date 10/5/2016
-Specifications:Shipping Calculations.
-*/
-//This program will calculate shipping charges based on miles and weight. 
-//Packages less than or equal to 10lbs will cost $2.00
-//Packages more than 10lbs but less than or equal to 50lbs will cost $4.50
-//Packages over 50 pounds will not be shipped.
-// Shipping charges will be based on every 500 miles with no pro ration.
-
 #include<stdio.h>
 #include<stdlib.h>
 
