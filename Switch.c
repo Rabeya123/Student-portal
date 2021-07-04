@@ -1,7 +1,3 @@
-/*Programmer-Chase Singhofen
-Date-
-Specafication- */
-//Preproccessor directives
 #include<stdio.h>
 #include<stdlib.h>
 //main function
