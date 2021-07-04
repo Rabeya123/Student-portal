@@ -1,7 +1,3 @@
-/*Programmer Chase Singhofen
-Date: 9/18/2016
-Specification: Three Prices*/
-
 #include<stdio.h>
 #include<stdlib.h>
 main() {
